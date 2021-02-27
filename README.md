@@ -27,11 +27,11 @@ Clone o repositorio e acesse a pasta
 
 Instale as dependencias
 
-yarn 
+<pre>yarn </pre>
 
 Inicie o projeto
 
-yarn dev
+<pre>yarn dev</pre>
 
-</p>
+
 
