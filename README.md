@@ -23,7 +23,7 @@ Corpo 💪🦵
 ## 🧩 Como instalar 
 
 Clone o repositorio e acesse a pasta 
-<p class="adding"> git clone https://github.com/ThaliaCS/moveit_nlw4.git && cd moveit_nlw4 
+<pre> git clone https://github.com/ThaliaCS/moveit_nlw4.git && cd moveit_nlw4  </pre>
 
 Instale as dependencias
 
