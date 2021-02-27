@@ -20,7 +20,7 @@ Corpo 💪🦵
 <li><a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a></li>
 </ul>
 
-## Como instalar 
+## Como instalar 🧩
 
 Clone o repositorio e acesse a pasta 
 <p class="adding"> git clone https://github.com/ThaliaCS/moveit_nlw4.git && cd moveit_nlw4 
@@ -35,14 +35,3 @@ yarn dev
 
 </p>
 
-<style>
-
-.adding{
-    padding: 10px;
-    overflow: auto;
-    line-height: 1.45;
-    background-color: #161b22;
-    border-radius: 6px;
-
-    }
- </style>
