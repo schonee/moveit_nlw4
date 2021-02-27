@@ -20,7 +20,7 @@ Corpo 💪🦵
 <li><a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a></li>
 </ul>
 
-## Como instalar 🧩
+## 🧩 Como instalar 
 
 Clone o repositorio e acesse a pasta 
 <p class="adding"> git clone https://github.com/ThaliaCS/moveit_nlw4.git && cd moveit_nlw4 
